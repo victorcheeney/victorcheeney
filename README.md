@@ -1,4 +1,4 @@
-I'm Victor, a software engineer in Québec, Canada.
+I'm Victor, a senior engineer from Québec, Canada.
 
 - Build and ship my own software products end to end, from idea to release.
 - Orchestrate AI agents across the whole product: code, marketing and motion design.
